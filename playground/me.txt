@@ -1,5 +1,0 @@
-{{#user}}
-Name: Siddharth Rakshe
-Skills: HTML, CSS, JS, Next.js
-Email: siddharthrakshe12@gmail.com
-{{/user}}
